@@ -1,0 +1,16 @@
+a=20;
+b=30;
+c=40;
+d=60;
+e=input("write value e\n");
+f=input("write value f\n");
+g=input("write value g\n");
+h=input("write value h\n");
+x=a+e;
+fprintf("%d+%d=%d\n",a,e,x);
+y=b-f;
+fprintf("%d-%d=%d\n",b,f,y);
+z=c*g;
+fprintf("%d*%d=%d\n",c,g,z);
+t=d/h;
+fprintf("%d/%d=%d\n",d,h,t);
